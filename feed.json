@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "iidesune!! Records",
+    "description": "",
+    "home_page_url": "https://iidesune-records.github.io",
+    "feed_url": "https://iidesune-records.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://iidesune-records.github.io/media/website/simple_ni_iidesune-2.png",
+    "author": {
+        "name": "Akira Ohta"
+    },
+    "items": [
+    ]
+}

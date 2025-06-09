@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://iidesune-records.github.io/sitemap.xml
