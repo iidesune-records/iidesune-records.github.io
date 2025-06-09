@@ -3,10 +3,29 @@
     <title>iidesune!! Records</title>
     <link href="https://iidesune-records.github.io/feed.xml" rel="self" />
     <link href="https://iidesune-records.github.io" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2025-06-10T01:45:59+09:00</updated>
     <author>
         <name>Akira Ohta</name>
     </author>
     <id>https://iidesune-records.github.io</id>
 
+    <entry>
+        <title>Sounds Good!! #1</title>
+        <author>
+            <name>Akira Ohta</name>
+        </author>
+        <link href="https://iidesune-records.github.io/sounds-good-1.html"/>
+        <id>https://iidesune-records.github.io/sounds-good-1.html</id>
+            <category term="Sounds Good!!"/>
+            <category term="Event"/>
+            <category term="Bar SLIGHT"/>
+
+        <updated>2025-06-10T01:13:53+09:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://iidesune-records.github.io/media/posts/3/S__37445755.jpg" alt="" width="1280" height="1280" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://iidesune-records.github.io/media/posts/3/responsive/S__37445755-xs.jpg 640w ,https://iidesune-records.github.io/media/posts/3/responsive/S__37445755-sm.jpg 768w ,https://iidesune-records.github.io/media/posts/3/responsive/S__37445755-md.jpg 1024w ,https://iidesune-records.github.io/media/posts/3/responsive/S__37445755-lg.jpg 1366w ,https://iidesune-records.github.io/media/posts/3/responsive/S__37445755-xl.jpg 1600w ,https://iidesune-records.github.io/media/posts/3/responsive/S__37445755-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
