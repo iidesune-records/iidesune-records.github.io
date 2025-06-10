@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>iidesune!! Records</title>
-    <link href="https://iidesune-records.github.io/feed.xml" rel="self" />
-    <link href="https://iidesune-records.github.io" />
+    <link href="https://iidesune.tokyo/feed.xml" rel="self" />
+    <link href="https://iidesune.tokyo" />
     <updated>2025-06-10T22:26:26+09:00</updated>
     <author>
         <name>Administrator</name>
     </author>
-    <id>https://iidesune-records.github.io</id>
+    <id>https://iidesune.tokyo</id>
 
     <entry>
         <title>Shinjuku City Boy</title>
         <author>
             <name>Administrator</name>
         </author>
-        <link href="https://iidesune-records.github.io/shinjuku-city-boy/"/>
-        <id>https://iidesune-records.github.io/shinjuku-city-boy/</id>
-        <media:content url="https://iidesune-records.github.io/media/posts/6/artworks-HfNWOZT1r3cSRDAd-PP9TJQ-t1080x1080.jpeg" medium="image" />
+        <link href="https://iidesune.tokyo/shinjuku-city-boy/"/>
+        <id>https://iidesune.tokyo/shinjuku-city-boy/</id>
+        <media:content url="https://iidesune.tokyo/media/posts/6/artworks-HfNWOZT1r3cSRDAd-PP9TJQ-t1080x1080.jpeg" medium="image" />
             <category term="Release"/>
             <category term="ATAMAHEAD"/>
 
         <updated>2025-06-10T20:55:00+09:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://iidesune-records.github.io/media/posts/6/artworks-HfNWOZT1r3cSRDAd-PP9TJQ-t1080x1080.jpeg" alt="" />
+                        <img src="https://iidesune.tokyo/media/posts/6/artworks-HfNWOZT1r3cSRDAd-PP9TJQ-t1080x1080.jpeg" alt="" />
                     [IDN-001] 新宿シティボーイ (Shinjuku City Boy) / ATAMAHEAD ATAMAHEAD · Shinjuku City Boy iidesune!! Records
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://iidesune-records.github.io/media/posts/6/artworks-HfNWOZT1r3cSRDAd-PP9TJQ-t1080x1080.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://iidesune.tokyo/media/posts/6/artworks-HfNWOZT1r3cSRDAd-PP9TJQ-t1080x1080.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>[IDN-001] 新宿シティボーイ (Shinjuku City Boy) / ATAMAHEAD</p>
 <h3>Music Video</h3>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/w_yr2HX_I3M?si=bJ2ypBxbIA43K8r-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
@@ -49,9 +49,9 @@
         <author>
             <name>Administrator</name>
         </author>
-        <link href="https://iidesune-records.github.io/sounds-good-1/"/>
-        <id>https://iidesune-records.github.io/sounds-good-1/</id>
-        <media:content url="https://iidesune-records.github.io/media/posts/3/S__37445755-2.jpg" medium="image" />
+        <link href="https://iidesune.tokyo/sounds-good-1/"/>
+        <id>https://iidesune.tokyo/sounds-good-1/</id>
+        <media:content url="https://iidesune.tokyo/media/posts/3/S__37445755-2.jpg" medium="image" />
             <category term="Sounds Good!!"/>
             <category term="Event"/>
             <category term="Bar SLIGHT"/>
@@ -59,13 +59,13 @@
         <updated>2025-06-10T01:13:53+09:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://iidesune-records.github.io/media/posts/3/S__37445755-2.jpg" alt="" />
+                        <img src="https://iidesune.tokyo/media/posts/3/S__37445755-2.jpg" alt="" />
                     iidesune!! Records によるライブイベント "Sounds Good!!" を Bar SLIGHT にて実施します！記念すべき第一弾では、SOADからインスピレーションを受けたDJと、愉快な仲間たちが繰り広げるパフォーマンスをお送りします。楽しい夜になりそうです、ぜひお越しください！ 2025/6/29 Sun. Open/Start 17:00 ¥2,000 (w/ 1 drink) Bar SLIGHT iidesune!! Records
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://iidesune-records.github.io/media/posts/3/S__37445755-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://iidesune.tokyo/media/posts/3/S__37445755-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p><em>iidesune!! Records </em>によるライブイベント "Sounds Good!!" を Bar SLIGHT にて実施します！記念すべき第一弾では、SOADからインスピレーションを受けたDJと、愉快な仲間たちが繰り広げるパフォーマンスをお送りします。楽しい夜になりそうです、ぜひお越しください！</p>
 <h3>Artists</h3>
 <div style="display: flex;">
