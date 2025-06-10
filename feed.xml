@@ -16,24 +16,28 @@
         </author>
         <link href="https://iidesune-records.github.io/shinjuku-city-boy/"/>
         <id>https://iidesune-records.github.io/shinjuku-city-boy/</id>
+            <category term="Release"/>
+            <category term="ATAMAHEAD"/>
 
         <updated>2025-06-10T20:55:00+09:00</updated>
             <summary>
                 <![CDATA[
-                    Music Video Streaming 各種音楽サービスで配信しています。 ATAMAHEAD · Shinjuku City Boy
+                    新宿シティボーイ (Shinjuku City Boy) / ATAMAHEAD (BandCampリンク追加予定です)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3> </h3>
+                <p>新宿シティボーイ (Shinjuku City Boy) / ATAMAHEAD</p>
 <h3>Music Video</h3>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/w_yr2HX_I3M?si=bJ2ypBxbIA43K8r-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 <h3>Streaming</h3>
-<p>各種音楽サービスで配信しています。</p>
-<div class="post__iframe"><iframe width="100%" height="152" style="border-radius: 12px;" src="https://open.spotify.com/embed/track/1XPs9Q4tfs6mJfKAATE9YR?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
-<div class="post__iframe"><iframe loading="lazy" height="175" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px;" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/song/shinjuku-city-boy/1816165236"></iframe></div>
-<div class="post__iframe"><iframe loading="lazy" width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2097372987&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe></div>
+<p> </p>
+<iframe width="100%" height="152" style="border-radius: 12px;" src="https://open.spotify.com/embed/track/1XPs9Q4tfs6mJfKAATE9YR?utm_source=generator" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-responsive="false"></iframe>
+<iframe loading="lazy" height="175" style="width: 100%; overflow: hidden; border-radius: 10px;" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/song/shinjuku-city-boy/1816165236" data-responsive="false"></iframe>
+<iframe loading="lazy" width="100%" height="100%" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2097372987&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" data-responsive="false"></iframe>
 <div style="font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;"><a href="https://soundcloud.com/atamahead" title="ATAMAHEAD" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener">ATAMAHEAD</a> · <a href="https://soundcloud.com/atamahead/shinjuku-city-boy" title="Shinjuku City Boy" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener">Shinjuku City Boy</a></div>
+<h3>Purchase</h3>
+<p>(BandCampリンク追加予定です)</p>
             ]]>
         </content>
     </entry>
