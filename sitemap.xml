@@ -49,8 +49,16 @@
 <lastmod>2025-06-11T09:53:33+09:00</lastmod>
 </url>
 <url>
+<loc>https://iidesune.tokyo/playlists/</loc>
+<lastmod>2025-06-12T01:42:13+09:00</lastmod>
+</url>
+<url>
 <loc>https://iidesune.tokyo/release/</loc>
-<lastmod>2025-06-10T23:27:23+09:00</lastmod>
+<lastmod>2025-06-12T01:34:01+09:00</lastmod>
+<image:image>
+<image:loc>https://iidesune.tokyo/media/posts/4/S__43581503.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://iidesune.tokyo/shinjuku-city-boy/</loc>
@@ -67,5 +75,9 @@
 <image:loc>https://iidesune.tokyo/media/posts/3/S__37445755-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://iidesune.tokyo/videos/</loc>
+<lastmod>2025-06-12T01:43:50+09:00</lastmod>
 </url>
 </urlset>
