@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 -2.985 44.56 44.56">
+  <g transform="translate(16.71, 0)">
+    <path d="M5.57,9.7c-1.66,0-3.01-.46-4.03-1.39-1.02-.93-1.54-2.08-1.54-3.46S.51,2.32,1.54,1.39C2.56.46,3.9,0,5.57,0s3.01.44,4.03,1.32c1.02.88,1.54,2.01,1.54,3.38s-.5,2.63-1.51,3.58c-1.01.94-2.36,1.42-4.06,1.42ZM1.01,38.59V12.58h9.12v26.02H1.01Z">
+      <animateTransform
+        attributeName="transform"
+        attributeType="XML"
+        type="rotate"
+        from="0 5.57 19.295"
+        to="360 5.57 19.295"
+        dur="5s"
+        repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
